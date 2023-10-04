@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "a2823d92d97c7d40",
+    "type": "split",
+    "children": [
+      {
+        "id": "3789f364386e02b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2d2ed99966691a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IOTSA/BLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a792d58c3b905ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "775c8c57aaa8f6cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "687fb28057ed33f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9335b5d240ab5682",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffeb3ff85ad73b7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fdd97026e3a61912",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cc9d5061c8a563d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2831e425ba427dc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IOTSA/BLE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3358122c15481e4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IOTSA/BLE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b105d5434c8a108",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c2602b400778a54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IOTSA/BLE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-markbase:Sync all Markbase projects": false
+    }
+  },
+  "active": "c2d2ed99966691a5",
+  "lastOpenFiles": [
+    "IOTSA/MQTT.md",
+    "IOTSA/BLE.md",
+    "IOTSA/Untitled.canvas",
+    "Pasted image 20231004205739.png",
+    "UNIT3.md",
+    "IOTSA/Pasted image 20230823221901.png",
+    "IOTSA/Pasted image 20230823203638.png",
+    "IOTSA/Pasted image 20230823202348.png",
+    "IOTSA/RTOS.md",
+    "es/image 20230822013443.png.md",
+    "es/Pasted image 20230822012526.png",
+    "es/Pasted image 20230822002845.png",
+    "es/Pasted image 20230821192051.png",
+    "es/Pasted image 20230822012455.png",
+    "es/Pasted image 20230822012551.png",
+    "es/Unit 4.md",
+    "es/Untitled.canvas",
+    "es/unit 2.md",
+    "Pasted image 20231003023051.png",
+    "es/WC.md",
+    "es/DHCP.md",
+    "es/ES.md",
+    "es/asdsad.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "IOTSA/IOT architecture.md",
+    "es/Untitled.md",
+    "Nutrtion/Unit 2.md",
+    "Nutrtion/Unit 1.md",
+    "Nutrtion",
+    "IOTSA/Cloud.md",
+    "IOTSA",
+    "imgs",
+    "New folder",
+    "es",
+    "es/questions.md",
+    "es/Untitled 1.canvas"
+  ]
+}
